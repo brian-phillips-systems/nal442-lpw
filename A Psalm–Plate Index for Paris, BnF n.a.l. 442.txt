@@ -1,0 +1,341 @@
+
+---
+
+A Psalm–Plate Index for Paris, BnF n.a.l. 442
+
+(Tironian Psalter)
+
+Prepared by: transcribo442nal
+Date: 2026
+License: No Rights Reserved (CC0-equivalent)
+
+
+---
+
+Purpose
+
+This document provides a Psalm–Plate index for the manuscript Paris, Bibliothèque nationale de France, nouvelles acquisitions latines 442 (the Tironian Psalter).
+
+The index is intended as a navigational aid for consultation of the manuscript. It identifies which Psalms appear on which manuscript plates, using stable plate identifiers.
+
+This document asserts location only.
+It makes no interpretive, editorial, or textual claims.
+
+
+---
+
+Scope and conventions
+
+Psalm numbering follows the Latin Psalter tradition (Vulgate/LXX).
+
+Plate identifiers (e.g., PLATE-0XX) refer to fixed manuscript surfaces used throughout the associated project.
+
+Where a plate contains more than one Psalm, ranges are indicated.
+
+Verse-level boundaries are not asserted unless explicitly known.
+
+The index is independent of transcription completeness or editorial state.
+
+
+
+---
+
+Psalm → Plate Index
+
+Ps. 1 : PLATE-001, PLATE-002
+Ps. 2 : PLATE-002
+Ps. 3 : PLATE-002
+Ps. 4 : PLATE-002, PLATE-003
+Ps. 5 : PLATE-003
+Ps. 6 : PLATE-003, PLATE-004
+Ps. 7 : PLATE-004
+Ps. 8 : PLATE-004, PLATE-005
+Ps. 9 : PLATE-005, PLATE-006
+Ps. 10 : PLATE-006
+Ps. 11 : PLATE-006
+Ps. 12 : PLATE-006, PLATE-007
+Ps. 13 : PLATE-007
+Ps. 14 : PLATE-007
+Ps. 15 : PLATE-007, PLATE-008
+Ps. 16 : PLATE-008
+Ps. 17 : PLATE-008, PLATE-009
+Ps. 18 : PLATE-010, PLATE-011
+Ps. 19 : PLATE-010, PLATE-011
+Ps. 20 : PLATE-011
+Ps. 21 : PLATE-011, PLATE-012, PLATE-013
+Ps. 22 : PLATE-013
+Ps. 23 : PLATE-013
+Ps. 24 : PLATE-013, PLATE-014
+Ps. 25 : PLATE-014
+Ps. 26 : PLATE-014, PLATE-015
+Ps. 27 : PLATE-015
+Ps. 28 : PLATE-015, PLATE-016
+Ps. 29 : PLATE-016
+Ps. 30 : PLATE-016, PLATE-017
+Ps. 31 : PLATE-017, PLATE-018
+Ps. 32 : PLATE-018
+Ps. 33 : PLATE-018, PLATE-019
+Ps. 34 : PLATE-019, PLATE-020
+Ps. 35 : PLATE-020
+Ps. 36 : PLATE-020, PLATE-021, PLATE-022
+Ps. 37 : PLATE-022
+Ps. 38 : PLATE-023
+Ps. 39 : PLATE-023, PLATE-024
+Ps. 40 : PLATE-024
+Ps. 41 : PLATE-024, PLATE-025
+Ps. 42 : PLATE-025
+Ps. 43 : PLATE-025, PLATE-026
+Ps. 44 : PLATE-026, PLATE-027
+Ps. 45 : PLATE-027
+Ps. 46 : PLATE-027
+Ps. 47 : PLATE-027, PLATE-028
+Ps. 48 : PLATE-028, PLATE-029
+Ps. 49 : PLATE-029
+Ps. 50 : PLATE-029, PLATE-030
+Ps. 51 : PLATE-030, PLATE-031
+Ps. 52 : PLATE-031
+Ps. 53 : PLATE-031
+Ps. 54 : PLATE-031, PLATE-032
+Ps. 55 : PLATE-032, PLATE-033
+Ps. 56 : PLATE-033
+Ps. 57 : PLATE-033
+Ps. 58 : PLATE-033, PLATE-034
+Ps. 59 : PLATE-034, PLATE-035
+Ps. 60 : PLATE-035
+Ps. 62 : PLATE-035, PLATE-036
+Ps. 63 : PLATE-036
+Ps. 64 : PLATE-036, PLATE-037
+Ps. 65 : PLATE-037
+Ps. 66 : PLATE-037, PLATE-038
+Ps. 67 : PLATE-038, PLATE-039
+Ps. 68 : PLATE-039, PLATE-040
+Ps. 69 : PLATE-040, PLATE-041
+Ps. 70 : PLATE-041, PLATE-042
+Ps. 71 : PLATE-042
+Ps. 72 : PLATE-042, PLATE-043
+Ps. 73 : PLATE-043, PLATE-044
+Ps. 74 : PLATE-044
+Ps. 75 : PLATE-044, PLATE-045
+Ps. 77 : PLATE-045, PLATE-046, PLATE-047, PLATE-048
+Ps. 78 : PLATE-048
+Ps. 79 : PLATE-049
+Ps. 80 : PLATE-049, PLATE-050
+Ps. 81 : PLATE-050
+Ps. 82 : PLATE-050
+Ps. 83 : PLATE-050, PLATE-051
+Ps. 84 : PLATE-051
+Ps. 85 : PLATE-051, PLATE-052
+Ps. 86 : PLATE-052
+Ps. 87 : PLATE-052, PLATE-053
+Ps. 88 : PLATE-053, PLATE-054
+Ps. 89 : PLATE-054, PLATE-055
+Ps. 90 : PLATE-055, PLATE-056
+Ps. 91 : PLATE-056
+Ps. 92 : PLATE-056
+Ps. 93 : PLATE-056, PLATE-057
+Ps. 94 : PLATE-057
+Ps. 95 : PLATE-057, PLATE-058
+Ps. 96 : PLATE-058
+Ps. 97 : PLATE-058, PLATE-059
+Ps. 98 : PLATE-059
+Ps. 99 : PLATE-059
+Ps. 100 : PLATE-059, PLATE-060
+Ps. 101 : PLATE-060, PLATE-061
+Ps. 102 : PLATE-061
+Ps. 103 : PLATE-061, PLATE-062, PLATE-063, PLATE-064
+Ps. 104 : PLATE-063, PLATE-065
+Ps. 105 : PLATE-064
+Ps. 106 : PLATE-065, PLATE-066, PLATE-067
+Ps. 107 : PLATE-067
+Ps. 108 : PLATE-067, PLATE-068
+Ps. 109 : PLATE-068, PLATE-069
+Ps. 110 : PLATE-069
+Ps. 111 : PLATE-069
+Ps. 112 : PLATE-069
+Ps. 113 : PLATE-070
+Ps. 114 : PLATE-070
+Ps. 115 : PLATE-071
+Ps. 116 : PLATE-071
+Ps. 117 : PLATE-071, PLATE-072
+Ps. 118 : PLATE-072, PLATE-073, PLATE-074, PLATE-075, PLATE-076, PLATE-077
+Ps. 119 : PLATE-077
+Ps. 120 : PLATE-078
+Ps. 121 : PLATE-078
+Ps. 122 : PLATE-078
+Ps. 123 : PLATE-078
+Ps. 124 : PLATE-078, PLATE-079
+Ps. 125 : PLATE-079
+Ps. 126 : PLATE-079
+Ps. 127 : PLATE-079
+Ps. 128 : PLATE-079, PLATE-080
+Ps. 129 : PLATE-080
+Ps. 130 : PLATE-080
+Ps. 131 : PLATE-080, PLATE-081
+Ps. 132 : PLATE-081
+Ps. 133 : PLATE-081
+Ps. 134 : PLATE-081
+Ps. 135 : PLATE-081, PLATE-082
+Ps. 136 : PLATE-082
+Ps. 137 : PLATE-082, PLATE-083
+Ps. 138 : PLATE-083
+Ps. 139 : PLATE-083, PLATE-084
+Ps. 140 : PLATE-084
+Ps. 141 : PLATE-084, PLATE-085
+Ps. 142 : PLATE-085
+Ps. 143 : PLATE-085, PLATE-086
+Ps. 144 : PLATE-086, PLATE-087
+Ps. 145 : PLATE-087
+Ps. 146 : PLATE-087
+Ps. 147 : PLATE-087
+Ps. 148 : PLATE-087, PLATE-088
+Ps. 149 : PLATE-088
+Ps. 150 : PLATE-088
+
+---
+The following inverse index is mechanically derived from the Psalm → Plate mapping above and is provided as a convenience for consultation.
+
+
+Plate → Psalm Index (inverse)
+
+
+PLATE-000 | Frontispiece (no psalm text)
+PLATE-001 | Ps. 1
+PLATE-002 | Ps. 1, Ps. 2, Ps. 3, Ps. 4
+PLATE-003 | Ps. 4, Ps. 5, Ps. 6
+PLATE-004 | Ps. 6, Ps. 7, Ps. 8
+PLATE-005 | Ps. 8, Ps. 9
+PLATE-006 | Ps. 9, Ps. 10, Ps. 11, Ps. 12
+PLATE-007 | Ps. 12, Ps. 13, Ps. 14, Ps. 15
+PLATE-008 | Ps. 15, Ps. 16, Ps. 17
+PLATE-009 | Ps. 17
+PLATE-010 | Ps. 17, Ps. 18
+PLATE-011 | Ps. 18, Ps. 19, Ps. 20, Ps. 21
+PLATE-012 | Ps. 21
+PLATE-013 | Ps. 21, Ps. 22, Ps. 23, Ps. 24
+
+PLATE-014 | Ps. 24, Ps. 25, Ps. 26
+PLATE-015 | Ps. 26, Ps. 27, Ps. 28
+PLATE-016 | Ps. 28, Ps. 29, Ps. 30
+PLATE-017 | Ps. 30, Ps. 31
+PLATE-018 | Ps. 31, Ps. 32, Ps. 33
+PLATE-019 | Ps. 33, Ps. 34
+PLATE-020 | Ps. 34, Ps. 35, Ps. 36
+
+PLATE-021 | Ps. 36
+PLATE-022 | Ps. 36, Ps. 37
+PLATE-023 | Ps. 38, Ps. 39
+PLATE-024 | Ps. 39, Ps. 40, Ps. 41
+PLATE-025 | Ps. 41, Ps. 42, Ps. 43
+PLATE-026 | Ps. 43, Ps. 44
+PLATE-027 | Ps. 44, Ps. 45, Ps. 46, Ps. 47
+PLATE-028 | Ps. 47, Ps. 48
+PLATE-029 | Ps. 48, Ps. 49, Ps. 50
+PLATE-030 | Ps. 50, Ps. 51
+
+PLATE-031 | Ps. 51, Ps. 52, Ps. 53, Ps. 54
+PLATE-032 | Ps. 54, Ps. 55
+PLATE-033 | Ps. 55, Ps. 56, Ps. 57, Ps. 58
+PLATE-034 | Ps. 58, Ps. 59
+PLATE-035 | Ps. 59, Ps. 60, Ps. 61, Ps. 62
+PLATE-036 | Ps. 62, Ps. 63, Ps. 64
+PLATE-037 | Ps. 64, Ps. 65, Ps. 66
+PLATE-038 | Ps. 66, Ps. 67
+PLATE-039 | Ps. 67, Ps. 68
+PLATE-040 | Ps. 68, Ps. 69
+
+PLATE-041 | Ps. 69, Ps. 70
+PLATE-042 | Ps. 70, Ps. 71, Ps. 72
+PLATE-043 | Ps. 72, Ps. 73
+PLATE-044 | Ps. 73, Ps. 74, Ps. 75
+PLATE-045 | Ps. 75, Ps. 76, Ps. 77
+PLATE-046 | Ps. 77
+PLATE-047 | Ps. 77
+PLATE-048 | Ps. 77, Ps. 78
+PLATE-049 | Ps. 79, Ps. 80
+PLATE-050 | Ps. 80, Ps. 81, Ps. 82, Ps. 83
+
+PLATE-051 | Ps. 83, Ps. 84, Ps. 85
+PLATE-052 | Ps. 85, Ps. 86, Ps. 87
+PLATE-053 | Ps. 87, Ps. 88
+PLATE-054 | Ps. 88, Ps. 89
+PLATE-055 | Ps. 89, Ps. 90
+PLATE-056 | Ps. 90, Ps. 91, Ps. 92, Ps. 93
+PLATE-057 | Ps. 93, Ps. 94, Ps. 95
+PLATE-058 | Ps. 95, Ps. 96, Ps. 97
+PLATE-059 | Ps. 97, Ps. 98, Ps. 99, Ps. 100
+PLATE-060 | Ps. 100, Ps. 101
+
+PLATE-061 | Ps. 101, Ps. 102, Ps. 103
+PLATE-062 | Ps. 103
+PLATE-063 | Ps. 103, Ps. 104
+PLATE-064 | Ps. 103, Ps. 105
+PLATE-065 | Ps. 104, Ps. 106
+PLATE-066 | Ps. 106
+PLATE-067 | Ps. 106, Ps. 107, Ps. 108
+PLATE-068 | Ps. 108, Ps. 109
+PLATE-069 | Ps. 109, Ps. 110, Ps. 111, Ps. 112
+PLATE-070 | Ps. 113, Ps. 114
+
+PLATE-071 | Ps. 114, Ps. 115, Ps. 116, Ps. 117
+PLATE-072 | Ps. 117, Ps. 118
+PLATE-073 | Ps. 118
+PLATE-074 | Ps. 118
+PLATE-075 | Ps. 118
+PLATE-076 | Ps. 118
+PLATE-077 | Ps. 118, Ps. 119
+PLATE-078 | Ps. 120, Ps. 121, Ps. 122, Ps. 123, Ps. 124
+PLATE-079 | Ps. 124, Ps. 125, Ps. 126, Ps. 127, Ps. 128
+PLATE-080 | Ps. 128, Ps. 129, Ps. 130, Ps. 131
+
+PLATE-081 | Ps. 131, Ps. 132, Ps. 133, Ps. 134, Ps. 135
+PLATE-082 | Ps. 135, Ps. 136, Ps. 137
+PLATE-083 | Ps. 137, Ps. 138, Ps. 139
+PLATE-084 | Ps. 139, Ps. 140, Ps. 141
+PLATE-085 | Ps. 141, Ps. 142, Ps. 143
+PLATE-086 | Ps. 143, Ps. 144
+PLATE-087 | Ps. 144, Ps. 145, Ps. 146, Ps. 147, Ps. 148
+PLATE-088 | Ps. 148, Ps. 149, Ps. 150. Psalter ends.
+
+Next plate begins 16 Canticles.
+
+
+---
+
+Notes on use
+
+This index may be cited independently as a reference tool.
+
+Plate identifiers are stable even if transcription or presentation changes.
+
+Progress tracking, transcription state, and positional indexing are maintained separately and are not part of this document.
+
+
+
+---
+
+Canonical source
+
+The canonical, versioned form of this index, along with plate images, transcription data, and methodological documentation, is maintained at:
+
+Repository:
+https://github.com/transcribo442nal/
+(cite by URL and commit hash)
+
+This PDF is provided as a static reference snapshot for ease of discovery and citation.
+
+
+---
+
+Citation suggestion
+
+> transcribo442nal, A Psalm–Plate Index for Paris, BnF n.a.l. 442 (Tironian Psalter), 2026, repository URL + commit hash.
+
+
+
+
+---
+
+End of document
+
+
+-

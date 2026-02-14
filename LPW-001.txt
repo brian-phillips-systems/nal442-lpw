@@ -1,0 +1,24 @@
+
+
+
+LATIN PLATE WITNESS
+PLATE-001
+MANUSCRIPT: Paris, BnF n.a.l. 442
+SCOPE: Latin words appearing on this plate only
+
+NOTE:
+Verse markers are navigational indices only.
+Line breaks carry no semantic or layout force.
+No punctuation, layout, or authority is asserted.
+
+----------------------------------------
+BEGIN LATIN PLATE WITNESS
+----------------------------------------
+
+
+[Ps 1:1] 
+BEĀTUS VIR QUĪ NŌN ABIIT IN CŌNSILIŌ IMPIŌRUM
+
+----------------------------------------
+END LATIN PLATE WITNESS
+----------------------------------------

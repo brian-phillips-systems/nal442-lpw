@@ -1,0 +1,28 @@
+
+
+LATIN PLATE WITNESS
+PLATE-XXX
+MANUSCRIPT: Paris, BnF n.a.l. 442
+SCOPE: Latin words appearing on this plate only
+
+NOTE:
+Verse markers are navigational indices only.
+Line breaks carry no semantic or layout force.
+No punctuation, layout, or authority is asserted.
+
+----------------------------------------
+BEGIN LATIN PLATE WITNESS
+----------------------------------------
+
+[Ps X:Y]
+LATIN WORDS LATIN WORDS LATIN WORDS LATIN WORDS
+
+[Ps X:Y+1]
+LATIN WORDS LATIN WORDS LATIN WORDS
+
+[Ps X:Y+2]
+LATIN WORDS LATIN WORDS LATIN WORDS LATIN WORDS LATIN WORDS
+
+----------------------------------------
+END LATIN PLATE WITNESS
+----------------------------------------
