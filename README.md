@@ -1,121 +1,97 @@
-# LPW — Canonical Corpus Deposit
+# Latin Plate Witness (LPW) – Canonical Corpus Deposit
+
+A structured, version-controlled corpus publication demonstrating
+deterministic text segmentation, atomic file initialization, and strict
+separation between source preservation and analytic layers.
+
+This repository represents a canonical deposit layer for a structured
+text corpus. It is intentionally minimal and text-first.
+
+---
 
 ## Purpose
 
-This repository contains the canonical LPW corpus deposit.
+This project exists to demonstrate:
 
-It is a stable, text-first archive layer intended for:
+- Deterministic corpus segmentation
+- Stable filename conventions
+- Version-controlled canonical deposits
+- Reproducible reference states
+- Clear separation between source data and transformation systems
 
-- deterministic storage
-- reproducible reference
-- layer-separated integration into downstream systems
-
-This repository is not a viewer, pipeline, or interpretive engine.
-
-It is a corpus authority layer.
-
+The repository does not include interpretation logic, rendering systems,
+or transformation pipelines. It serves as a stable authority layer.
 
 ---
 
-## Current State (Canonical Surface v0)
+## Design Principles
 
-The present corpus:
+**1. Atomic Files**
 
-- Preserves canonical textual units
-- Maintains deterministic filenames
-- Avoids embedded runtime dependencies
-- Avoids UI binding
-- Avoids enforced positional (POS) coupling
+Each canonical unit is stored as an independent text file.
+Files are never implicitly merged or dynamically generated.
 
-The repository intentionally prioritizes:
+**2. Deterministic Naming**
 
-- stability
-- clarity
-- auditability
-- minimalism
+Filenames are stable and structured to preserve ordering
+without relying on runtime logic.
 
+**3. Reproducibility**
 
----
+The repository is intended to produce identical checkouts
+across environments. No build step is required.
 
-## Architectural Position
+**4. Layer Separation**
 
-LPW occupies the **corpus layer** in a multi-layer manuscript system.
+This corpus layer is strictly separated from:
 
-It is intentionally separated from:
+- Parsing systems
+- ETL pipelines
+- UI layers
+- Positional indexing systems
 
-- visual navigation substrates (e.g., static viewers)
-- positional alignment engines
-- interpretive layers
-- transformation pipelines
+Downstream systems may consume this corpus, but they do not
+modify its canonical surface.
 
-This separation preserves evidentiary integrity and future flexibility.
+**5. Explicit Versioning**
 
-
----
-
-## Column-Level Evolution (Structured Flexibility)
-
-The current structure allows for future refinement at the column level.
-
-Possible future enhancements may include:
-
-- deterministic column subdivision
-- column-level manifest anchoring
-- structural metadata binding
-- checksum anchoring of column units
-- alignment scaffolding for positional systems
-
-Any such enhancement will:
-
-- respect canonical freeze points
-- preserve backward compatibility where possible
-- require explicit version signaling
-
-No silent structural migration will occur.
-
+Structural changes, if any, require explicit version signaling.
+No silent structural migrations occur.
 
 ---
 
-## Versioning Philosophy
+## Repository Structure
 
-This repository is:
+- Individual `.txt` files represent canonical text units
+- LICENSE (CC0 Public Domain dedication)
+- README (this document)
 
-- stable
-- incrementally improvable
-- version-declarable when structural changes occur
-
-Future structural enhancements will be reflected via:
-
-- semantic version tags
-- documented change logs
-- explicit migration notes
-
-Immutability of declared canonical units is prioritized.
-
+The corpus is intentionally text-only and dependency-free.
 
 ---
 
-## Non-Goals
+## Intended Use Cases
 
-This repository does not:
+This structure supports:
 
-- interpret manuscript meaning
-- normalize textual variants
-- embed runtime UI components
-- bind permanently to positional scaffolding
-- collapse layers into a monolithic tool
-
+- Corpus indexing
+- Integrity verification workflows
+- Checksum anchoring
+- Deterministic ETL integration
+- Academic or archival reference
 
 ---
 
-## Governance
+## License
 
-Changes to canonical textual units require explicit declaration.
+CC0 1.0 Universal (Public Domain Dedication)
 
-Structural refinements must:
+This repository waives copyright to the extent permitted by law.
+It may be copied, modified, and redistributed without restriction.
 
-- preserve deterministic file architecture
-- maintain auditability
-- avoid silent mutation
+---
 
-This repository models reproducible digital humanities infrastructure with strict layer separation and controlled evolution.
+## Status
+
+Stable canonical deposit.
+Future enhancements would require explicit structural versioning.
